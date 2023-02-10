@@ -95,6 +95,7 @@ in media queries use em instead of rem, rem has some pblm with some devices
   }
   .btn-mobile-nav {
     display: block;
+    z-index: 9999;
   }
   .main-nav {
     background-color: rgb(253, 242, 233);

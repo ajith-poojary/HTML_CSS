@@ -1,2 +1,2 @@
 # HTML_CSS
-Final look : https://omnifood-ajith.netlify.app/
+Check out my Omnifood project : https://omnifood-ajith.netlify.app/
